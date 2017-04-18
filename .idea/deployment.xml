@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Dev Sparkholder">
+    <serverData>
+      <paths name="Dev Sparkholder">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="phpstorm" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Next Talent">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Sparkholder">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

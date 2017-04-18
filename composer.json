@@ -1,0 +1,13 @@
+{
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://packages.zendframework.com/"
+    }
+  ],
+  "require": {
+    "zendframework/zendframework": "2.5.3"
+  }
+}
